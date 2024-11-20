@@ -57,5 +57,5 @@ The dataset is highly structured, making it an excellent resource for analysis.
 
 ## Connect with Me  
 If you'd like to discuss this project or explore my other work, feel free to connect with me:  
-- [LinkedIn](https://www.linkedin.com/in/engy-saeed-b47784276?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BV%2BB2MrRgSMy1qCzvrgIR8g%3D%3D)  
+- My LinkedIn: [LinkedIn](https://www.linkedin.com/in/engy-saeed-b47784276?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BV%2BB2MrRgSMy1qCzvrgIR8g%3D%3D)  
 - Email: engysead498@gmail.com
